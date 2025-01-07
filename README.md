@@ -32,6 +32,4 @@
 - The Random Forest model achieved 100% accuracy on test data.
 - Detailed analysis and visualizations are available in the notebook.
 
-## Disclaimer
-- Data used is for educational purposes only.
 Add README.md
